@@ -1,1 +1,2 @@
 Hi, this is a file I have added to the editor to test the git push function.
+And this is an addition to the latest file in the new file system.
